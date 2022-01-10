@@ -31,12 +31,19 @@ The report contains the following:
 	
 2. Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 How many Vine reviews and non-Vine reviews were there?
--Total review count was 904,765. Count of piad reviews which are filted for 50% of the reivews were helpful were 60 and count of the nopaid reviews which are filted for 50% of the reviews were helpful were 14,477
+
+-Total review count was 904,765. Count of piad reviews which are filted for 50% of the reivews were helpful were 60 and count of the nopaid reviews which are filted for 50% of the reviews were helpful were 14,477.
+
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 -Paid(Vine) reviews for 5-star rating were 34 out of 60 and non-vine reviews for 5-sstar rating were 8212 of of 14,477. 
+
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 -56.67% of vine reivews were 5 stars and 56.72% of non-vine reviews were 5 stars. 
+
 3. State if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
 -In this anlysis, there is no bias for reviews in the vine program since the percentage of the 5-star rating in vine reviews was less than the 5 stars of the non-vine reviews.  In the result, the people provide the review does not biased whether they paid or not. 
 Additionally, percentage of helpful votes in paid review was much less than percentage of helpful votes in nonpaid reviews. 
 Therefore, there is no bias for the reviews in the vine program. 
